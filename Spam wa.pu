@@ -1,0 +1,16 @@
+pkg install git
+pkg install python
+pkg install bash 
+git clone https://github.com/SanzzXD/Brutal-Swa
+cd Brutal-Swa
+ls
+pip install -r requirements.txt
+ls
+python Sw-Spam.py
+
+
+
+
+
+
+
